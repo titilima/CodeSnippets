@@ -1,5 +1,7 @@
 #include "Dispatch.h"
 
+// IUnknown
+
 STDMETHODIMP CDispatch::QueryInterface(REFIID riid, void **ppvObject)
 {
     return E_NOINTERFACE;
@@ -14,6 +16,8 @@ STDMETHODIMP_(ULONG) CDispatch::Release(void)
 {
     return 1;
 }
+
+// IDispatch
 
 STDMETHODIMP CDispatch::GetTypeInfoCount(UINT *pctinfo)
 {

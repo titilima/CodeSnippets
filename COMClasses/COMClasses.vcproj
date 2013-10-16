@@ -161,12 +161,52 @@
 			Filter="cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx"
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
+			<File
+				RelativePath=".\Dispatch.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\Unknown.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\WebBrowser.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\WebBrowser2.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\WebBrowserApp.cpp"
+				>
+			</File>
 		</Filter>
 		<Filter
 			Name="headers"
 			Filter="h;hpp;hxx;hm;inl;inc;xsd"
 			UniqueIdentifier="{93995380-89BD-4b04-88EB-625FBE52EBFB}"
 			>
+			<File
+				RelativePath=".\Dispatch.h"
+				>
+			</File>
+			<File
+				RelativePath=".\Unknown.h"
+				>
+			</File>
+			<File
+				RelativePath=".\WebBrowser.h"
+				>
+			</File>
+			<File
+				RelativePath=".\WebBrowser2.h"
+				>
+			</File>
+			<File
+				RelativePath=".\WebBrowserApp.h"
+				>
+			</File>
 		</Filter>
 	</Files>
 	<Globals>

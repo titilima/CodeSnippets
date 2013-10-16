@@ -1,5 +1,7 @@
 #include "Unknown.h"
 
+// IUnknown
+
 STDMETHODIMP CUnknown::QueryInterface(REFIID riid, void **ppvObject)
 {
     return E_NOINTERFACE;
