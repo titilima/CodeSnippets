@@ -166,6 +166,14 @@
 				>
 			</File>
 			<File
+				RelativePath=".\SeviceProvider.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\ShellBrowser.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\Unknown.cpp"
 				>
 			</File>
@@ -189,6 +197,14 @@
 			>
 			<File
 				RelativePath=".\Dispatch.h"
+				>
+			</File>
+			<File
+				RelativePath=".\SeviceProvider.h"
+				>
+			</File>
+			<File
+				RelativePath=".\ShellBrowser.h"
 				>
 			</File>
 			<File
