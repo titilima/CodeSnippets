@@ -19,11 +19,11 @@ public:
             p2 = NULL;
         }
     }
-    operator T1*() const throw()
+    operator T1*() throw()
     {
         return Get();
     }
-    T1& operator*() const
+    T1& operator*()
     {
         return *Get();
     }
@@ -36,15 +36,15 @@ public:
     {
         return (_NoAddRefReleaseOnCComPtr<T1>*)Get();
     }
-    bool operator!() const throw()
+    bool operator!() throw()
     {
         return (NULL == Get());
     }
-    bool operator!=(_In_opt_ T1* pT) const
+    bool operator!=(_In_opt_ T1* pT)
     {
         return !operator==(pT);
     }
-    bool operator==(_In_opt_ T1* pT) const throw()
+    bool operator==(_In_opt_ T1* pT) throw()
     {
         return Get() == pT;
     }
