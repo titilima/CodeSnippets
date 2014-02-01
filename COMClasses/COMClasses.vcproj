@@ -166,6 +166,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\DocHostUIHandlerDispatch.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\SeviceProvider.cpp"
 				>
 			</File>
@@ -197,6 +201,10 @@
 			>
 			<File
 				RelativePath=".\Dispatch.h"
+				>
+			</File>
+			<File
+				RelativePath=".\DocHostUIHandlerDispatch.h"
 				>
 			</File>
 			<File
