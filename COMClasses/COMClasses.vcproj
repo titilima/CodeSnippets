@@ -170,6 +170,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\DropTarget.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\SeviceProvider.cpp"
 				>
 			</File>
@@ -205,6 +209,10 @@
 			</File>
 			<File
 				RelativePath=".\DocHostUIHandlerDispatch.h"
+				>
+			</File>
+			<File
+				RelativePath=".\DropTarget.h"
 				>
 			</File>
 			<File
