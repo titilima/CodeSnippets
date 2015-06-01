@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="headers">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Dispatch.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DocHostUIHandlerDispatch.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DropTarget.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="SeviceProvider.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="ShellBrowser.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Unknown.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="WebBrowser.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="WebBrowser2.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="WebBrowserApp.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Dispatch.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DocHostUIHandlerDispatch.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DropTarget.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="SeviceProvider.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ShellBrowser.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Unknown.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="WebBrowser.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="WebBrowser2.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="WebBrowserApp.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
