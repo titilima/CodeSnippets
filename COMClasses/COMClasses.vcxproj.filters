@@ -20,9 +20,6 @@
     <ClCompile Include="DropTarget.cpp">
       <Filter>sources</Filter>
     </ClCompile>
-    <ClCompile Include="SeviceProvider.cpp">
-      <Filter>sources</Filter>
-    </ClCompile>
     <ClCompile Include="ShellBrowser.cpp">
       <Filter>sources</Filter>
     </ClCompile>
@@ -38,6 +35,27 @@
     <ClCompile Include="WebBrowserApp.cpp">
       <Filter>sources</Filter>
     </ClCompile>
+    <ClCompile Include="OleClientSite.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="OleInPlaceSite.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="OleCommandTarget.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DocHostShowUI.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DocHostUIHandler2.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="ServiceProvider.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="ProtectFocus.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Dispatch.h">
@@ -47,9 +65,6 @@
       <Filter>headers</Filter>
     </ClInclude>
     <ClInclude Include="DropTarget.h">
-      <Filter>headers</Filter>
-    </ClInclude>
-    <ClInclude Include="SeviceProvider.h">
       <Filter>headers</Filter>
     </ClInclude>
     <ClInclude Include="ShellBrowser.h">
@@ -65,6 +80,27 @@
       <Filter>headers</Filter>
     </ClInclude>
     <ClInclude Include="WebBrowserApp.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="OleClientSite.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="OleInPlaceSite.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="OleCommandTarget.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DocHostShowUI.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DocHostUIHandler2.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ServiceProvider.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ProtectFocus.h">
       <Filter>headers</Filter>
     </ClInclude>
   </ItemGroup>

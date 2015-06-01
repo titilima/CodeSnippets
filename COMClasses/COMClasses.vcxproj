@@ -79,9 +79,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Dispatch.cpp" />
+    <ClCompile Include="DocHostShowUI.cpp" />
+    <ClCompile Include="DocHostUIHandler2.cpp" />
     <ClCompile Include="DocHostUIHandlerDispatch.cpp" />
     <ClCompile Include="DropTarget.cpp" />
-    <ClCompile Include="SeviceProvider.cpp" />
+    <ClCompile Include="OleClientSite.cpp" />
+    <ClCompile Include="OleCommandTarget.cpp" />
+    <ClCompile Include="OleInPlaceSite.cpp" />
+    <ClCompile Include="ProtectFocus.cpp" />
+    <ClCompile Include="ServiceProvider.cpp" />
     <ClCompile Include="ShellBrowser.cpp" />
     <ClCompile Include="Unknown.cpp" />
     <ClCompile Include="WebBrowser.cpp" />
@@ -90,9 +96,15 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Dispatch.h" />
+    <ClInclude Include="DocHostShowUI.h" />
+    <ClInclude Include="DocHostUIHandler2.h" />
     <ClInclude Include="DocHostUIHandlerDispatch.h" />
     <ClInclude Include="DropTarget.h" />
-    <ClInclude Include="SeviceProvider.h" />
+    <ClInclude Include="OleClientSite.h" />
+    <ClInclude Include="OleCommandTarget.h" />
+    <ClInclude Include="OleInPlaceSite.h" />
+    <ClInclude Include="ProtectFocus.h" />
+    <ClInclude Include="ServiceProvider.h" />
     <ClInclude Include="ShellBrowser.h" />
     <ClInclude Include="Unknown.h" />
     <ClInclude Include="WebBrowser.h" />
