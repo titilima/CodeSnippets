@@ -56,6 +56,12 @@
     <ClCompile Include="ProtectFocus.cpp">
       <Filter>sources</Filter>
     </ClCompile>
+    <ClCompile Include="SequentialStream.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Stream.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Dispatch.h">
@@ -101,6 +107,12 @@
       <Filter>headers</Filter>
     </ClInclude>
     <ClInclude Include="ProtectFocus.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="SequentialStream.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Stream.h">
       <Filter>headers</Filter>
     </ClInclude>
   </ItemGroup>

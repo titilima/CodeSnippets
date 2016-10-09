@@ -87,8 +87,10 @@
     <ClCompile Include="OleCommandTarget.cpp" />
     <ClCompile Include="OleInPlaceSite.cpp" />
     <ClCompile Include="ProtectFocus.cpp" />
+    <ClCompile Include="SequentialStream.cpp" />
     <ClCompile Include="ServiceProvider.cpp" />
     <ClCompile Include="ShellBrowser.cpp" />
+    <ClCompile Include="Stream.cpp" />
     <ClCompile Include="Unknown.cpp" />
     <ClCompile Include="WebBrowser.cpp" />
     <ClCompile Include="WebBrowser2.cpp" />
@@ -104,8 +106,10 @@
     <ClInclude Include="OleCommandTarget.h" />
     <ClInclude Include="OleInPlaceSite.h" />
     <ClInclude Include="ProtectFocus.h" />
+    <ClInclude Include="SequentialStream.h" />
     <ClInclude Include="ServiceProvider.h" />
     <ClInclude Include="ShellBrowser.h" />
+    <ClInclude Include="Stream.h" />
     <ClInclude Include="Unknown.h" />
     <ClInclude Include="WebBrowser.h" />
     <ClInclude Include="WebBrowser2.h" />
